@@ -1,0 +1,40 @@
+admin:
+  login:
+    login:
+      operation: "adminlogin"
+    logout:
+      operation: "logout"
+
+  user:
+    add_user:
+      operation: "adduser"
+    get_user: 
+      operation: "getuser"
+        
+  group:
+    add_group: 
+      operation: "addgroup"
+    add_member_to_group: 
+      operation: "addmembertogroup"
+    get_groups: 
+      operation: "getgroups"
+    get_group_by_name: 
+      operation: "getgroupbyname"
+  default_endpoint: "/admin"
+
+guest:
+  login:
+    login: "/core/loginguest"
+    logout: "/core/logoutprofile"
+  file:
+    create_folder: "/core/createfolder"
+    delete_folder: "/core/deletefolder"
+    file_exists: "/core/fileexists"
+    get_file_list: "/core/getfilelist"
+    upload_file: "/core/upload"
+    get_file_info: "/core/fileinfo"
+    download_file: "/core/downloadfile"
+    delete_file: "/core/deletefile"
+  versioning:
+    make_version_live: "/core/makeversionlive"
+    get_versions: "/core/getversions"

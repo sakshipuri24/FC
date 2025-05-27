@@ -1,0 +1,145 @@
+{
+    "groups": [
+        "Accounting",
+        "Operations",
+        "Engineering",
+        "Consultants"
+    ],
+    "users": [
+        {
+            "username": "henderson.nakashima",
+            "displayname": "Henderson Nakashima",
+            "email": "henderson.nakashima@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Accounting"]
+        },
+        {
+            "username": "biserka.wilkie",
+            "displayname": "Biserka Wilkie",
+            "email": "biserka.wilkie@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Accounting"]
+        },
+        {
+            "username": "giltbert.thatcher",
+            "displayname": "Giltbert Thatcher",
+            "email": "giltbert.thatcher@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Accounting"]
+        },
+        {
+            "username": "octavia.blanchard",
+            "displayname": "Octavia Blanchard",
+            "email": "octavia.blanchard@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Accounting"]
+        },
+        {
+            "username": "dawid.morel",
+            "displayname": "Dawid Morel",
+            "email": "dawid.morel@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Accounting"]
+        },
+        {
+            "username": "zulfikar.aafjes",
+            "displayname": "Zülfikar Aafjes",
+            "email": "zulfikar.aafjes@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Operations"]
+        },
+        {
+            "username": "vlasi.szilagyi",
+            "displayname": "Vlasi Szilágyi",
+            "email": "vlasi.szilagyi@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Operations"]
+        },
+        {
+            "username": "madelyn.donne",
+            "displayname": "Madelyn Donne",
+            "email": "madelyn.donne@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Operations"]
+        },
+        {
+            "username": "sule.zima",
+            "displayname": "Şule Zima",
+            "email": "sule.zima@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Operations"]
+        },
+        {
+            "username": "rehema.barr",
+            "displayname": "Rehema Barr",
+            "email": "rehema.barr@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Operations"]
+        },
+        {
+            "username": "awee.murdoch",
+            "displayname": "Awee Murdoch",
+            "email": "awee.murdoch@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Engineering"]
+        },
+        {
+            "username": "tsholofelo.boer",
+            "displayname": "Tsholofelo Boer",
+            "email": "tsholofelo.boer@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Engineering"]
+        },
+        {
+            "username": "mari.winthrop",
+            "displayname": "Mari Winthrop",
+            "email": "mari.winthrop@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 1,
+            "groups": ["Engineering"]
+        },
+        {
+            "username": "dragoslav.echevarria",
+            "displayname": "Dragoslav Echevarría",
+            "email": "dragoslav.echevarria@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 0,
+            "groups": ["Consultants"]
+        },
+        {
+            "username": "kaley.petrov",
+            "displayname": "Kaley Petrov",
+            "email": "kaley.petrov@example.com",
+            "password": "TempPass123",
+            "authtype": 0,
+            "status": 0,
+            "groups": ["Consultants"]
+        }
+    ]
+}
